@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff899cac-3a48-4269-9b3c-14abf0849b9a)# OutlookEmailAutomation
+# OutlookEmailAutomation
 A VBA macro to automate sending emails with attachments using Outlook, including dynamic content and personalized salutations. Make sure to give required permissions to your macro to access your Outlook application on your system to integrate with VBA macro.
 
 
