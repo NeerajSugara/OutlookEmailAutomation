@@ -1,5 +1,6 @@
 # OutlookEmailAutomation
-A VBA macro to automate sending emails with attachments using Outlook or Gmail, including dynamic content and personalized salutations.
+A VBA macro to automate sending emails with attachments using Outlook, including dynamic content and personalized salutations. Make sure to give required permissions to your macro to access your Outlook application on your system to integrate with VBA macro.
+
 
 # OutlookEmailAutomation
 
